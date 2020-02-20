@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="83" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+    <groups>
+    </groups>
+    <test name="Test suite 1" duration-ms="83" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+      <class name="com.qait.TestNGProject.Class2">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:com.qait.TestNGProject.Class2@3a82f6ef]" name="firstTestCase" duration-ms="17" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:com.qait.TestNGProject.Class2@3a82f6ef]" name="secondTestCase" duration-ms="4" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+      </class> <!-- com.qait.TestNGProject.Class2 -->
+      <class name="com.qait.TestNGProject.Classone">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:com.qait.TestNGProject.Classone@100fc185]" name="firstTestCase" duration-ms="2" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="secondTestCase()[pri:0, instance:com.qait.TestNGProject.Classone@100fc185]" name="secondTestCase" duration-ms="1" started-at="2020-02-20T06:31:19Z" finished-at="2020-02-20T06:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+      </class> <!-- com.qait.TestNGProject.Classone -->
+    </test> <!-- Test suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
